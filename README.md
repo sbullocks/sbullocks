@@ -9,7 +9,8 @@
 <code><img height="50" width="50" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" width="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sbullocks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sbullocks&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 sbullocks/sbullocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
