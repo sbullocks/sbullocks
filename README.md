@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sbullocks !
-- 👀 I’m interested in sports and gaming.
-- 🌱 I’m currently learning to code MERN Full Stack.
+- 🌱 Frontend Engineer — React, TypeScript, JavaScript, Node.js
 - 📫 Reach me directly at sbullocks@gmail.com
 
 <code><img height="50" width="50" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
