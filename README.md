@@ -51,7 +51,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbullocks&bg_color=141321&color=f8d84b&line=fe428e&point=fe428e&area=true&hide_border=true&custom_title=2026%20Contribution%20Activity" alt="2026 Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbullocks&bg_color=141321&color=f8d84b&line=fe428e&point=fe428e&area=true&hide_border=true&custom_title=Last%2030%20Days" alt="2026 Contribution Activity" />
 </p>
 
 <!---
