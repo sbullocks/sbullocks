@@ -16,7 +16,22 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />&nbsp;&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" /></p>
+<table align="center"><tr>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" /></td>
+</tr></table>
 
 ---
 
@@ -25,10 +40,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sbullocks&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&custom_title=Lifetime%20Stats" alt="Lifetime GitHub Stats" />
+      <img src="https://streak-stats.demolab.com/?user=sbullocks&theme=chartreuse-dark&custom_title=Lifetime%20Stats" alt="Lifetime Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sbullocks&show_icons=true&theme=radical&include_all_commits=false&count_private=true&custom_title=2026%20Stats" alt="2026 GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sbullocks&show_icons=true&theme=radical&count_private=true&custom_title=2026%20Stats" alt="2026 Stats" />
     </td>
   </tr>
 </table>
