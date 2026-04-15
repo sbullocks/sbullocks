@@ -25,10 +25,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sbullocks&show_icons=true&theme=chartreuse-dark&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sbullocks&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&custom_title=Lifetime%20Stats" alt="Lifetime GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=sbullocks&theme=radical&custom_title=2026%20Streak" alt="2026 Streak Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sbullocks&show_icons=true&theme=radical&include_all_commits=false&count_private=true&custom_title=2026%20Stats" alt="2026 GitHub Stats" />
     </td>
   </tr>
 </table>
