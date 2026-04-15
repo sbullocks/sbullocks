@@ -43,10 +43,16 @@
       <img src="https://streak-stats.demolab.com/?user=sbullocks&theme=chartreuse-dark&custom_title=Lifetime%20Stats" alt="Lifetime Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sbullocks&show_icons=true&theme=radical&count_private=true&custom_title=2026%20Stats" alt="2026 Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbullocks&theme=radical&layout=compact&custom_title=Top%20Languages" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbullocks&bg_color=141321&color=f8d84b&line=fe428e&point=fe428e&area=true&hide_border=true&custom_title=2026%20Contribution%20Activity" alt="2026 Contribution Activity" />
+</p>
 
 <!---
 sbullocks/sbullocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
