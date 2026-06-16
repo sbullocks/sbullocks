@@ -7,15 +7,16 @@
 
 <br/>
 
-- 🚀 Frontend Engineer II — 3 years shipping production React & TypeScript in a cloud-native SaaS environment
-- 🛠️ Full stack across React, Node.js, Python, FastAPI, AWS serverless, and Supabase
-- 🤖 AI-integrated builder — Claude API & GitHub Copilot shipped in production apps
+- 🚀 Frontend Engineer II — 3+ years shipping production React & TypeScript in a cloud-native SaaS environment
+- 🛠️ Full stack across React, NestJS, Node.js, Python, and FastAPI — building everything from database schema to deployed UI
+- 🤖 AI-integrated builder — Claude API deployed in production: voice agents, multimodal validation, and AI-moderated content pipelines
 - 💡 15+ years of leadership and client-facing experience that shapes every product decision
 
 ---
 
 ### 🛠️ Tech Stack
 
+<p align="center"><sub>Frontend</sub></p>
 <table align="center"><tr>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></td>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></td>
@@ -23,14 +24,23 @@
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" /></td>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" /></td>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" /></td>
+</tr></table>
+
+<p align="center"><sub>Backend &amp; Infrastructure</sub></p>
+<table align="center"><tr>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" /></td>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></td>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" /></td>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /></td>
-<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" /></td>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" /></td>
+<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" /></td>
 <td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></td>
-<td align="center"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" /></td>
 </tr></table>
 
 ---
