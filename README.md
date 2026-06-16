@@ -8,7 +8,7 @@
 <br/>
 
 - 🚀 Frontend Engineer II with 3+ years shipping production React & TypeScript in a cloud-native SaaS environment
-- 🛠️ Full stack across React, NestJS, Node.js, Python, and FastAPI — building everything from database schema to deployed UI
+- 🛠️ Full stack across React, NestJS, Node.js, Python, and FastAPI; building everything from database schema to deployed UI
 - 🤖 AI-integrated builder: Claude API deployed in production: voice agents, multimodal validation, and AI-moderated content pipelines
 - 💡 15+ years of leadership and client-facing experience that shapes every product decision
 
